@@ -25,3 +25,6 @@ if a:
 else:
 	print 'A variável a é falsa'
 
+
+print 'Alteracao!'
+
